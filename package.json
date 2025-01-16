@@ -1,0 +1,16 @@
+{
+  "name": "mi-bot",
+  "version": "1.0.0",
+  "description": "Un bot de Discord para negocios y compañía",
+  "main": "src/index.js",
+  "dependencies": {
+    "discord.js": "^14.3.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Tu Nombre",
+  "license": "ISC"
+}
